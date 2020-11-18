@@ -9,7 +9,7 @@ DOES NOT DEAL WELL WITH BACKTICKS IN FILENAME. If this is you, stop. Get help.
 Originally written to rename Synology DownloadStation torrent files, 
 which are named 001.torrent 002.torrent,etc
 
-For Synology use cases, uncomment line 57 to prepend original torrent file number to new file name
+For Synology use cases, uncomment line 65 to prepend original torrent file number to new file name
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
